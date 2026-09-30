@@ -4,4 +4,4 @@ Allow: /papers/
 Allow: /practice/
 Allow: /exam/
 
-Sitemap: https://whaleal-dev.github.io/mongodb-exam-web/sitemap.xml
+Sitemap: https://docs.whaleal.com/mongodb-exam-web/sitemap.xml

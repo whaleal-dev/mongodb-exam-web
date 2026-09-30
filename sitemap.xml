@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://whaleal-dev.github.io/mongodb-exam-web/</loc>
+<loc>https://docs.whaleal.com/mongodb-exam-web/</loc>
 </url>
 <url>
-<loc>https://whaleal-dev.github.io/mongodb-exam-web/papers/</loc>
+<loc>https://docs.whaleal.com/mongodb-exam-web/papers/</loc>
 </url>
 <url>
-<loc>https://whaleal-dev.github.io/mongodb-exam-web/practice/new/</loc>
+<loc>https://docs.whaleal.com/mongodb-exam-web/practice/new/</loc>
 </url>
 <url>
-<loc>https://whaleal-dev.github.io/mongodb-exam-web/exam/</loc>
+<loc>https://docs.whaleal.com/mongodb-exam-web/exam/</loc>
 </url>
 </urlset>
