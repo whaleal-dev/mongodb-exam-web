@@ -1,7 +1,4 @@
 User-Agent: *
 Allow: /
-Allow: /papers/
-Allow: /practice/
-Allow: /exam/
 
 Sitemap: https://docs.whaleal.com/mongodb-exam-web/sitemap.xml

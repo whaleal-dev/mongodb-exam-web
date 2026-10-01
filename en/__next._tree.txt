@@ -1,0 +1,2 @@
+:HL["/mongodb-exam-web/_next/static/css/4980ccac7c904048.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"en","param":null,"prefetchHints":4208,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"cCaqijKf2gMmMlK6tUqo5"}

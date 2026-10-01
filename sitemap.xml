@@ -1,15 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
 <url>
 <loc>https://docs.whaleal.com/mongodb-exam-web/</loc>
+<xhtml:link rel="alternate" hreflang="zh-CN" href="https://docs.whaleal.com/mongodb-exam-web/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://docs.whaleal.com/mongodb-exam-web/en/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://docs.whaleal.com/mongodb-exam-web/" />
+<changefreq>monthly</changefreq>
+<priority>1</priority>
+</url>
+<url>
+<loc>https://docs.whaleal.com/mongodb-exam-web/en/</loc>
+<xhtml:link rel="alternate" hreflang="zh-CN" href="https://docs.whaleal.com/mongodb-exam-web/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://docs.whaleal.com/mongodb-exam-web/en/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://docs.whaleal.com/mongodb-exam-web/" />
+<changefreq>monthly</changefreq>
+<priority>1</priority>
 </url>
 <url>
 <loc>https://docs.whaleal.com/mongodb-exam-web/papers/</loc>
+<xhtml:link rel="alternate" hreflang="zh-CN" href="https://docs.whaleal.com/mongodb-exam-web/papers/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://docs.whaleal.com/mongodb-exam-web/en/papers/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://docs.whaleal.com/mongodb-exam-web/papers/" />
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://docs.whaleal.com/mongodb-exam-web/en/papers/</loc>
+<xhtml:link rel="alternate" hreflang="zh-CN" href="https://docs.whaleal.com/mongodb-exam-web/papers/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://docs.whaleal.com/mongodb-exam-web/en/papers/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://docs.whaleal.com/mongodb-exam-web/papers/" />
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
 </url>
 <url>
 <loc>https://docs.whaleal.com/mongodb-exam-web/practice/new/</loc>
+<xhtml:link rel="alternate" hreflang="zh-CN" href="https://docs.whaleal.com/mongodb-exam-web/practice/new/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://docs.whaleal.com/mongodb-exam-web/en/practice/new/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://docs.whaleal.com/mongodb-exam-web/practice/new/" />
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://docs.whaleal.com/mongodb-exam-web/en/practice/new/</loc>
+<xhtml:link rel="alternate" hreflang="zh-CN" href="https://docs.whaleal.com/mongodb-exam-web/practice/new/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://docs.whaleal.com/mongodb-exam-web/en/practice/new/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://docs.whaleal.com/mongodb-exam-web/practice/new/" />
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
 </url>
 <url>
 <loc>https://docs.whaleal.com/mongodb-exam-web/exam/</loc>
+<xhtml:link rel="alternate" hreflang="zh-CN" href="https://docs.whaleal.com/mongodb-exam-web/exam/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://docs.whaleal.com/mongodb-exam-web/en/exam/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://docs.whaleal.com/mongodb-exam-web/exam/" />
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://docs.whaleal.com/mongodb-exam-web/en/exam/</loc>
+<xhtml:link rel="alternate" hreflang="zh-CN" href="https://docs.whaleal.com/mongodb-exam-web/exam/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://docs.whaleal.com/mongodb-exam-web/en/exam/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://docs.whaleal.com/mongodb-exam-web/exam/" />
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
 </url>
 </urlset>
