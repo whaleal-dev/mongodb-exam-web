@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fen\u002Fpapers\u002F[paperId]","\u002Fen\u002Fpractice\u002F[quizId]","\u002Fen\u002Fpractice\u002F[quizId]\u002Fresult","\u002Fen\u002Fquestions\u002F[slug]","\u002Fpapers\u002F[paperId]","\u002Fpractice\u002F[quizId]","\u002Fpractice\u002F[quizId]\u002Fresult","\u002Fquestions\u002F[slug]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
